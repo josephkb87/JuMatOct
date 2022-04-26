@@ -22,5 +22,5 @@ For Documentation on More advanced Jupyter Notebooks and Matlab Help [go here](h
 
 -----------------------------
 Further Reading and Understanding Between Octave and Matlab
-* Differences between Octave and Matlab - Octave [go here] (https://wiki.octave.org/Differences_between_Octave_and_Matlab)
-* Matlab Tutorials [go here](https://www.tutorialspoint.com/matlab/matlab_gnu_octave.htm)
+* Differences between Octave and Matlab - Octave [go here](https://wiki.octave.org/Differences_between_Octave_and_Matlab)
+* For More Matlab Tutorials [go here](https://www.tutorialspoint.com/matlab/matlab_gnu_octave.htm)
