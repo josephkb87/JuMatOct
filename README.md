@@ -12,7 +12,7 @@ For Documentation on More advanced Jupyter Notebooks and Matlab Help,[go here](h
 
 ----------------------------
 # Topics To Be Covered;
-- - Matlab for Basic Mathematics
+--- Matlab for Basic Mathematics
 - Basic Mathematical Operations 
 - Advanced Mathematical Operations 
 - Handling Constants in Matlab_octave
@@ -22,7 +22,7 @@ For Documentation on More advanced Jupyter Notebooks and Matlab Help,[go here](h
 - Reshaping, Transposing and Inverse
 - Math Operations with Arrays
 - Matrix Multiplication elementwise and General
-- - Essential and Intermediate 
+- - - Essential and Intermediate 
 - Custom User nput in Matlab
 - Conditional Statements(If-else, Switch)
 - Loops in Matlab(For Loops)
