@@ -28,11 +28,11 @@ For Documentation on More advanced Jupyter Notebooks and Matlab Help,[go here](h
 - Loops in Matlab(For Loops)
 - String & Cell Arrays in Matlab(Definitions and Handling)
 
---Plotting Graphs Using MATLAB
+- - Plotting Graphs Using MATLAB
 - 2D Plots
 - More Plots ,Scatte Plot, log-log
 
---Linear Algebra and Calculus in Matlab
+- - Linear Algebra and Calculus in Matlab
 - Linear Algebra
 - System of Linear Equations
 - Using symbolic to make Differentation and Integration using Matlab
