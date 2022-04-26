@@ -12,6 +12,7 @@ For Documentation on More advanced Jupyter Notebooks and Matlab Help,[go here](h
 
 ----------------------------
 # Topics To Be Covered;
+- - Matlab for Basic Mathematics
 - Basic Mathematical Operations 
 - Advanced Mathematical Operations 
 - Handling Constants in Matlab_octave
