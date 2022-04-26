@@ -22,6 +22,20 @@ For Documentation on More advanced Jupyter Notebooks and Matlab Help,[go here](h
 - Reshaping, Transposing and Inverse
 - Math Operations with Arrays
 - Matrix Multiplication elementwise and General
+- - Essential and Intermediate 
+- Custom User nput in Matlab
+- Conditional Statements(If-else, Switch)
+- Loops in Matlab(For Loops)
+- String & Cell Arrays in Matlab(Definitions and Handling)
+
+--Plotting Graphs Using MATLAB
+- 2D Plots
+- More Plots ,Scatte Plot, log-log
+
+--Linear Algebra and Calculus in Matlab
+- Linear Algebra
+- System of Linear Equations
+- Using symbolic to make Differentation and Integration using Matlab
 
 ----------------------------
 # Worked on Examples;
