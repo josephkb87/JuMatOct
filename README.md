@@ -5,18 +5,18 @@ JupyterLab is the latest web-based interactive development environment for noteb
 
 This Repo IS NOT a Python_SQL Repo, for the one that has worked examples go to the [Python_SQL](https://github.com/josephkb87/PySQLDB) 
 
-# This Repo IS NOT a Python_Matlab Repo, for the one that has worked examples go to the [PythonMATLAB](https://github.com/josephkb87/Matlab_Octave) 
+This Repo IS NOT a Python_Matlab Repo, for the one that has worked examples go to the [PythonMATLAB](https://github.com/josephkb87/Matlab_Octave) 
 
-#This repo looks at the basics on using Python with Octave Using Jupyter Notebooks sa pythoDB,
+This repo looks at the basics on using Python with Octave Using Jupyter Notebooks sa pythoDB,
 Octave is a less heavy to learn and faster learning and coding curve), CLI and GUI interface that us similar to Matlab in function and usage.
 
 ----------------------------
-Requirements 
+# Requirements 
 ----------------------------
 
-Install MATLAB_OCTAVE [from here](https://www.gnu.org/software/octave/download) OR Get [Octave](http://www.octave.org) from here
-Install Juypter Notebooks [from here](https://jupyter.org/install)
-For Documentation on More advanced Jupyter Notebooks and Matlab Help,[go here](https://docs.jupyter.org/en/latest/)
+* Install MATLAB_OCTAVE [from here](https://www.gnu.org/software/octave/download) OR Get [Octave](http://www.octave.org) from here
+* Install Juypter Notebooks [from here](https://jupyter.org/install)
+* For Documentation on More advanced Jupyter Notebooks and Matlab Help,[go here](https://docs.jupyter.org/en/latest/)
 
 ----------------------------
 # Topics To Be Covered;
