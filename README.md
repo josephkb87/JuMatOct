@@ -42,7 +42,6 @@ Octave is a less heavy to learn and faster learning and coding curve), CLI and G
  *  Transformers circuits 
  *  Types of Signals and Operations 
 
----------------
 #Reference Text for usage has been added as a pdf.
 
 MATLAB - Programming with MATLAB for Beginners, A Practical Introduction To Programming And Problem Solving
