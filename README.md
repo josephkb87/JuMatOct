@@ -1,5 +1,5 @@
 #   This JuMatOct Repo 
-----------------------------
+
 Covers Matlab and Octave in Jupyter Notebook Basics
 JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning
 
@@ -16,7 +16,6 @@ Octave is a less heavy to learn and faster learning and coding curve), CLI and G
 * Install MATLAB_OCTAVE [from here](https://www.gnu.org/software/octave/download) OR Get [Octave](http://www.octave.org) from here
 * Install Juypter Notebooks [from here](https://jupyter.org/install)
 * For Documentation on More advanced Jupyter Notebooks and Matlab Help,[go here](https://docs.jupyter.org/en/latest/)
-
 
 #   Topics To Be Covered;
 *   Matlab for Basic Mathematics
