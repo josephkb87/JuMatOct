@@ -10,7 +10,7 @@ This Repo IS NOT a Python_Matlab Repo, for the one that has worked examples go t
 This repo looks at the basics on using Python with Octave Using Jupyter Notebooks sa pythoDB,
 Octave is a less heavy to learn and faster learning and coding curve), CLI and GUI interface that us similar to Matlab in function and usage.
 
-----------------------------
+
 # Requirements 
 ----------------------------
 
@@ -18,19 +18,19 @@ Octave is a less heavy to learn and faster learning and coding curve), CLI and G
 * Install Juypter Notebooks [from here](https://jupyter.org/install)
 * For Documentation on More advanced Jupyter Notebooks and Matlab Help,[go here](https://docs.jupyter.org/en/latest/)
 
-----------------------------
+
 # Topics To Be Covered;
 ----------------------------
-* Matlab for Basic Mathematics
-- Basic Mathematical Operations 
-- Advanced Mathematical Operations 
-- Handling Constants in Matlab_octave
-- Array Basics
-- LinSpace and MultiDimensioal Arrays
-- Special Arrays,Size and Sorting
-- Reshaping, Transposing and Inverse
-- Math Operations with Arrays
-- Matrix Multiplication elementwise and General
+*   Matlab for Basic Mathematics
+*   Basic Mathematical Operations 
+*   Advanced Mathematical Operations 
+*   Handling Constants in Matlab_octave
+*   Array Basics
+*   LinSpace and MultiDimensioal Arrays
+*   Special Arrays,Size and Sorting
+*   Reshaping, Transposing and Inverse
+*   Math Operations with Arrays
+*   Matrix Multiplication elementwise and General
 *   Essential and Intermediate 
 *   Custom User Input in Matlab
 *   Conditional Statements(If-else, Switch)
@@ -45,10 +45,11 @@ Octave is a less heavy to learn and faster learning and coding curve), CLI and G
  *  Types of Signals and Operations 
 
 -------------------------
-# Reference Text for usage has been added as a pdf.
+# # Reference Text for usage has been added as a pdf.
+
 MATLAB - Programming with MATLAB for Beginners, A Practical Introduction To Programming And Problem Solving
 
-# Proper Documentation for you to refer to whenever needed
+# Proper Documentation for you to refer to whenever needed.
 [Official Octave documentation](https://octave.org/octave.pdf)
 
 -----------------------------
