@@ -21,7 +21,7 @@ Octave is a less heavy to learn and faster learning and coding curve), CLI and G
 ----------------------------
 # Topics To Be Covered;
 ----------------------------
-- - Matlab for Basic Mathematics
+* Matlab for Basic Mathematics
 - Basic Mathematical Operations 
 - Advanced Mathematical Operations 
 - Handling Constants in Matlab_octave
@@ -31,14 +31,11 @@ Octave is a less heavy to learn and faster learning and coding curve), CLI and G
 - Reshaping, Transposing and Inverse
 - Math Operations with Arrays
 - Matrix Multiplication elementwise and General
-- - Essential and Intermediate 
-- Custom User nput in Matlab
-- Conditional Statements(If-else, Switch)
-- Loops in Matlab(For Loops)
-- String & Cell Arrays in Matlab(Definitions and Handling)
-
-# Covered Topics Include;
-----------------------------
+*   Essential and Intermediate 
+*   Custom User Input in Matlab
+*   Conditional Statements(If-else, Switch)
+*   Loops in Matlab(For Loops)
+*   String & Cell Arrays in Matlab(Definitions and Handling)
  *  Flow Control Statements in MATLAB(if_else while, for)
  *  Math Functions(Trigonometric, Exponential, Complex, Rounding and remainder, Specialized math functions,Number theoretic functions, Coordinate transforms
  *  Plots in MATLAB(Basic Plots and Graphs,axis, grid, bar,legending, titleing, xlabel, ylabel, zlabel,xlim, ylim, zlim, stem, subplot, Hold)
@@ -55,8 +52,6 @@ MATLAB - Programming with MATLAB for Beginners, A Practical Introduction To Prog
 [Official Octave documentation](https://octave.org/octave.pdf)
 
 -----------------------------
-# Application to Real World Problems & Analysis
------------------------------
 Further Reading and Understanding Between Octave and Matlab and Jupyter Notebooks
 -----------------------------
 * Differences between Octave and Matlab - Octave [go here](https://wiki.octave.org/Differences_between_Octave_and_Matlab)
@@ -68,5 +63,4 @@ Further Reading and Understanding Between Octave and Matlab and Jupyter Notebook
 * [Most common Jupyter Commands](https://am111.readthedocs.io/en/latest/jmatlab_use.html)
 * [Speed-up your octave code to have good performance](https://wiki.octave.org/Performance#Vectorization)
 
-Beyond the Basics
-Using Python, R, Julia and Octave with Jupyter Notebook [go here](https://datascience-enthusiast.com/Miscellaneous/Jupyter_R_Python_Julia_Octave.html)
+* Beyond the Basics [Using Python, R, Julia and Octave with Jupyter Notebook](https://datascience-enthusiast.com/Miscellaneous/Jupyter_R_Python_Julia_Octave.html)
