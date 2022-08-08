@@ -1,16 +1,15 @@
-#   This JuMatOct Repo 
+#   In This JuMatOct Repo, We cover the Basics oF Python with Matlab and Octave in Jupyter Notebooks.
 
-This Repo Covers Matlab and Octave in Jupyter Notebook Basics.
-JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning.
+### Octave is a less heavy to learn and faster learning and coding curve), CLI and GUI interface that us similar to Matlab in function and usage.
 
-This Repo IS NOT a Python_SQL Repo, for the one that has worked examples go to the [Python_SQL](https://github.com/josephkb87/PySQLDB) repo.
+### JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. 
+### Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning.
+=======
+The DOESNOT contain a Python_SQL Repo, for the Python_SQL Repo with worked examples go [Here](https://github.com/josephkb87/PySQLDB).
 
-This Repo IS NOT a Python_Matlab Repo, for the one that has worked examples go to the [PythonMATLAB](https://github.com/josephkb87/Matlab_Octave) repo.
+The Repo IS NOT a Python_Matlab Repo, for the Python_Matlab with worked examples go [PythonMATLAB here](https://github.com/josephkb87/Matlab_Octave).
 
-This repo looks at the basics on using Python with Octave Using Jupyter Notebooks sa pythoDB,
-Octave is a less heavy to learn and faster learning and coding curve), CLI and GUI interface that us similar to Matlab in function and usage.
-
-
+=========
 #   Requirements.
 
 * Install MATLAB_OCTAVE [from here](https://www.gnu.org/software/octave/download) OR Get [Octave](http://www.octave.org) from here.
