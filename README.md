@@ -1,11 +1,11 @@
 #   JuMatOct Repo, 
 
-###  In This Repo,We cover the Basics of Python with Matlab and Octave in Jupyter Notebooks.
-
-### Octave is a less heavy to learn and faster learning and coding curve), CLI and GUI interface that us similar to Matlab in function and usage.
-
 ### JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. 
 ### Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning.
+
+####  In This Repo,We cover the Basics of Python with Matlab and Octave in Jupyter Notebooks.
+
+#### Octave is a less heavy to learn and faster learning and coding curve), CLI and GUI interface that us similar to Matlab in function and usage.
 ___
 The Repo DOESNOT contain Python_SQL , for the Python_SQL Repo with worked examples go [Here](https://github.com/josephkb87/PySQLDB).
 
