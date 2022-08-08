@@ -1,4 +1,6 @@
-#   In This JuMatOct Repo, We cover the Basics oF Python with Matlab and Octave in Jupyter Notebooks.
+#   JuMatOct Repo, 
+
+###  In This Repo,We cover the Basics of Python with Matlab and Octave in Jupyter Notebooks.
 
 ### Octave is a less heavy to learn and faster learning and coding curve), CLI and GUI interface that us similar to Matlab in function and usage.
 
