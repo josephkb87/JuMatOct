@@ -6,9 +6,9 @@ Octave is a less heavy to learn and faster learning and coding curve), CLI and G
 ___
 ####  In This Repo,We cover the Basics of Python with Matlab and Octave in Jupyter Notebooks.
 ___
-The Repo DOESNOT contain Python_SQL , for the Python_SQL Repo with worked examples go [Here](https://github.com/josephkb87/PySQLDB).
+The Repo DOESNOT contain Python_SQL , Go Here for the [Python_SQL with worked examples](https://github.com/josephkb87/PySQLDB).
 
-The Repo IS NOT a Python_Matlab Repo, for the Python_Matlab with worked examples go [PythonMATLAB here](https://github.com/josephkb87/Matlab_Octave).
+The Repo IS NOT a Python_Matlab Repo, Go here for [PythonMATLAB with worked examples](https://github.com/josephkb87/Matlab_Octave).
 ___
 ###   Requirements.
 
