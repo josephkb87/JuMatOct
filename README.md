@@ -40,14 +40,14 @@ ___
  *  Transformers circuits.
  *  Types of Signals and Operations.
 
-###   Reference Text for usage has been added as a pdf.
+###   Reference Text for Usage.
 
 MATLAB - Programming with MATLAB for Beginners, A Practical Introduction To Programming And Problem Solving.
 
-###   Proper Documentation for you to refer to whenever needed.
+###   Documentation for Reference.
 [Official Octave documentation](https://octave.org/octave.pdf)
 
-###   Further Reading and Understanding Between Octave and Matlab and Jupyter Notebooks.
+###   Further Reading Octave and Matlab and Jupyter Notebooks.
 * Differences between Octave and Matlab - Octave [go here](https://wiki.octave.org/Differences_between_Octave_and_Matlab).
 * For More Matlab Tutorials [go here](https://www.tutorialspoint.com/matlab/matlab_gnu_octave.htm).
 * Getting Started [in Octave and Jupyter](https://alphonse.github.io/archive/chem370-s2020/lab-manual/appendix-1-getting-started-in-octave-and-jupyter-lab.html).
