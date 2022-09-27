@@ -1,5 +1,5 @@
  
-###Hi, 👋. Welcome to this JuMatOct Repo.
+### Hi, 👋. Welcome to this JuMatOct Repo.
 
 <a href="https://github.coom/josephkb87/JuMatOct">About This JuMatOct Repo.</a><a href="https://josephkb87.github.io">About Me.</a><a href="https://linktr.ee/jungbasher87">My Socials</a>.<a href="https://github.com/josephkb87?tab=repositories"> My work </a>.<a href="https://github.com/josephkb87?tab=projects">My Projects</a>.<a href="https://github.com/josephkb87?tab=projects">Sponsor Me</a>
   
@@ -13,7 +13,7 @@
   </a>
 </div>
   
-###  Named JuMatOct for Jupyter Notebooks Matlab_Octave 
+###  JuMatOct(Jupyter Notebooks Matlab_Octave)
 
 JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. 
 Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning.
