@@ -77,6 +77,6 @@ MATLAB - Programming with MATLAB for Beginners, A Practical Introduction To Prog
 
 - Tell me you like this project or how it helped you out!
 
-  - [Comment in the project's guestbook](https://github.com/josephkb87/### /issues/) :blush:,
+  - [Comment in the project's guestbook](https://github.com/josephkb87/### /issues/22) :blush:,
   - Reach out on [Twitter](https://twitter.com/clydekingkid),
   - or [send a nice email my way](mailto:kiyinijoseph@gmail@gmail.com)!
