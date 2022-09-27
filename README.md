@@ -1,15 +1,10 @@
-###   JuMatOct Repo, 
-
-Hi, 👋. Welcome to this Matlab_Octave Repo.
-
+ 
+###Hi, 👋. Welcome to this JuMatOct Repo.
 
 <a href="https://github.coom/josephkb87/JuMatOct">About This JuMatOct Repo.</a><a href="https://josephkb87.github.io">About Me.</a><a href="https://linktr.ee/jungbasher87">My Socials</a>.<a href="https://github.com/josephkb87?tab=repositories"> My work </a>.<a href="https://github.com/josephkb87?tab=projects">My Projects</a>.<a href="https://github.com/josephkb87?tab=projects">Sponsor Me</a>
   
 
- <div>
-<a href="https://github.com/josephkb87/JuMatOct/readme.md"><img src="https://img.shields.io/github/stars/josephkb87/app-privacy-policy-generator.svg?style=social&amp;label=Star" alt="GitHub stars"></a>.<a href="https://github.com/josephkb87/Matlab_Octave/fork"><img src="https://img.shields.io/github/forks/josephkb87/josephkb87.svg?style=social&amp;label=Fork" alt="GitHub forks"></a>
-
-  <a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/watchers/josephkb87/josephkb87.svg?style=social&amp;label=Watch" alt="GitHub watchers"></a>
+ <div><a href="https://github.com/josephkb87/JuMatOct/readme.md"><img src="https://img.shields.io/github/stars/josephkb87/app-privacy-policy-generator.svg?style=social&amp;label=Star" alt="GitHub stars"></a>.<a href="https://github.com/josephkb87/Matlab_Octave/fork"><img src="https://img.shields.io/github/forks/josephkb87/josephkb87.svg?style=social&amp;label=Fork" alt="GitHub forks"></a> <a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/watchers/josephkb87/josephkb87.svg?style=social&amp;label=Watch" alt="GitHub watchers"></a>
   <a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/followers/josephkb87.svg?style=social&amp;label=Follow" alt="GitHub followers"></a>.<a href="https://twitter.com/josephkb87"><img src="https://img.shields.io/twitter/follow/clydekingkid.svg?style=social" alt="Twitter Follow"></a>
 </div
   
@@ -18,7 +13,7 @@ Hi, 👋. Welcome to this Matlab_Octave Repo.
   </a>
 </div>
   
-###  Jupyter Notebooks Matlab_Octave 
+###  Named JuMatOct for Jupyter Notebooks Matlab_Octave 
 
 JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. 
 Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning.
