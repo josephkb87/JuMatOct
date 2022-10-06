@@ -1,7 +1,7 @@
  
-### Hi, 👋. Welcome to this JuMatOct Repo.
+### Hi, 👋. Welcome to this JuMatOct .
 
-<a href="https://github.coom/josephkb87/JuMatOct">About This JuMatOct Repo.</a><a href="https://josephkb87.github.io">About Me.</a><a href="https://linktr.ee/jungbasher87">My Socials</a>.<a href="https://github.com/josephkb87?tab=repositories"> My work </a>.<a href="https://github.com/josephkb87?tab=projects">My Projects</a>.<a href="https://github.com/josephkb87?tab=projects">Sponsor Me</a>
+<a href="https://github.coom/josephkb87/JuMatOct">About This JuMatOct(Jupyter Notebooks Matlab Octave Repo)</a><a href="https://josephkb87.github.io">About Me.</a><a href="https://linktr.ee/jungbasher87">My Socials</a>.<a href="https://github.com/josephkb87?tab=repositories"> My work </a>.<a href="https://github.com/josephkb87?tab=projects">My Projects</a>.<a href="https://github.com/josephkb87?tab=projects">Sponsor Me</a>
   
 
  <div><a href="https://github.com/josephkb87/JuMatOct/readme.md"><img src="https://img.shields.io/github/stars/josephkb87/app-privacy-policy-generator.svg?style=social&amp;label=Star" alt="GitHub stars"></a>.<a href="https://github.com/josephkb87/Matlab_Octave/fork"><img src="https://img.shields.io/github/forks/josephkb87/josephkb87.svg?style=social&amp;label=Fork" alt="GitHub forks"></a> <a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/watchers/josephkb87/josephkb87.svg?style=social&amp;label=Watch" alt="GitHub watchers"></a>
@@ -11,8 +11,19 @@
   
  <div>
   <a href="https://www.buymeacoffee.com/josephkb87" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
-  </a>
-</div>
+  </a> </div>
+  <div>
+- If you can spare a few 💵:
+
+  - [Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),
+  - or [Sponsor me on GitHub](https://github.com/sponsors/josephkb87) (recurring monthly).
+
+- Tell me you like this project or how it helped you out!
+
+  - [Comment in the project's guestbook](https://github.com/josephkb87/### /issues/22) :blush:,
+  - Reach out on [Twitter](https://twitter.com/clydekingkid),
+  - or [send a nice email my way](mailto:kiyinijoseph@gmail@gmail.com)!
+ </div>
   
 ###  JuMatOct(Jupyter Notebooks Matlab_Octave)
 
@@ -48,13 +59,13 @@ ___
 *   Conditional Statements(If-else, Switch).
 *   Loops in Matlab(For Loops).
 *   String & Cell Arrays in Matlab(Definitions and Handling).
- *  Flow Control Statements in MATLAB(if_else while, for).
- *  Math Functions(Trigonometric, Exponential, Complex, Rounding and remainder, Specialized math functions,Number theoretic functions, Coordinate transforms.
- *  Plots in MATLAB(Basic Plots and Graphs,axis, grid, bar,legending, titleing, xlabel, ylabel, zlabel,xlim, ylim, zlim, stem, subplot, Hold).
- *  Matrix arithmetic operations and array arithmetic operations.  
- *  Basic Operations on Electrical, Magnetic and ElectroMagnetc Circuits in Matlab.
- *  Transformers circuits.
- *  Types of Signals and Operations.
+*   Flow Control Statements in MATLAB(if_else while, for).
+*   Math Functions(Trigonometric, Exponential, Complex, Rounding and remainder, Specialized math functions,Number theoretic functions, Coordinate transforms.
+*   Plots in MATLAB(Basic Plots and Graphs,axis, grid, bar,legending, titleing, xlabel, ylabel, zlabel,xlim, ylim, zlim, stem, subplot, Hold).
+*   Matrix arithmetic operations and array arithmetic operations.  
+*   Basic Operations on Electrical, Magnetic and ElectroMagnetc Circuits in Matlab.
+*   Transformers circuits.
+*   Types of Signals and Operations.
 
 ###   Reference Text for Usage.
 
@@ -74,13 +85,3 @@ MATLAB - Programming with MATLAB for Beginners, A Practical Introduction To Prog
 
 * Beyond the Basics [Using Python, R, Julia and Octave with Jupyter Notebook](https://datascience-enthusiast.com/Miscellaneous/Jupyter_R_Python_Julia_Octave.html).
 
-- If you can spare a few 💵:
-
-  - [Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),
-  - or [Sponsor me on GitHub](https://github.com/sponsors/josephkb87) (recurring monthly).
-
-- Tell me you like this project or how it helped you out!
-
-  - [Comment in the project's guestbook](https://github.com/josephkb87/### /issues/22) :blush:,
-  - Reach out on [Twitter](https://twitter.com/clydekingkid),
-  - or [send a nice email my way](mailto:kiyinijoseph@gmail@gmail.com)!
